@@ -1948,8 +1948,17 @@ body {
 .cid-rdPF5IF2pH .card .panel-body {
   color: #767676;
 }
+.cid-reTdki3N6N {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-reTdki3N6N .mbr-text,
+.cid-reTdki3N6N blockquote {
+  color: #767676;
+}
 .cid-rdPyQ1pI7f {
-  padding-top: 30px;
+  padding-top: 0px;
   padding-bottom: 30px;
   background-color: #efefef;
 }
